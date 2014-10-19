@@ -1,5 +1,5 @@
 function informa () {
-  console.log('He terminado.');
+  console.log('Vamos tos paya');
 }
 
 (function ( i, callback ) {
@@ -7,5 +7,5 @@ function informa () {
     {
       window.alert('Soy el número' + j);
     }
-    informa();
+    Paya();
 })(10, informa);
