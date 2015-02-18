@@ -6,6 +6,10 @@ function informa () {
   console.log('Y lo sabes...');
 }
 
+function sumUp ( n1, n2 ) {
+  return n1 + n2;
+}
+
 (function ( i, callback ) {
   for (var j = 1; j <= i; j++)
     {
