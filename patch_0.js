@@ -4,6 +4,17 @@ function informa () {
   console.log('Has finisheado.');
 }
 
+function Tree ( name ) {
+  this.name = name || 'Default';
+  this.branches = 2;
+}
+
+Tree.prototype.setName = function ( name ) {
+  this.name = name;
+}
+
+var treebol = new Tree('Treebol');
+
 function sumUp ( n1, n2 ) {
   return n1 + n2;
 }
