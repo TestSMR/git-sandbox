@@ -8,9 +8,5 @@ function ( data ) {
 	window.alert(data.toString('utf-8'));
 }
 
-<<<<<<< HEAD
 reeeeeeeeeeeeeeeeeeetuuuuuuuuuuuuuuuuuuuuuuuuuuurrnnnnnnnnnnnn;
-=======
-reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeetuuuuuuuuuuuuuuuuuuuuuuuuuuurrnnnnnnnnnnnn;
 reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeetuuuuuuuuuuuuuuuuuuuuuuuuuuurnnnnnnnnnnnnnn;
->>>>>>> testing2
