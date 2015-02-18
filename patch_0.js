@@ -1,9 +1,8 @@
 function informa () {
 <<<<<<< HEAD
   console.log('Vamos tos paya');
-=======
   console.log('He finisheado.');
->>>>>>> c6250e8948c7227649f6d3c9702c6e61f405252f
+  console.log('Has finisheado.');
 }
 
 (function ( i, callback ) {
